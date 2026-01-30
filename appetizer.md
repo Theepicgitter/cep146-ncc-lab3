@@ -1,7 +1,15 @@
 # Simple Bruschetta
-* 4 slices Italian bread, toasted
-* 2 tomatoes, chopped
-* 1 clove garlic, minced
-* Olive oil and basil
 
-Source: https://www.allrecipes.com/recipe/54165/bruschetta-scoops/
+* Roma tomatoes 
+
+* Fresh basil, 
+
+* Parmesan cheese 
+
+* Garlic 
+
+* Balsamic vinegar 
+
+* Olive oil
+
+Source: https://www.allrecipes.com/recipe/54165/balsamic-bruschetta/
